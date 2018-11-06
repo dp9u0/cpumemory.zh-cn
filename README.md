@@ -21,6 +21,11 @@
 * F. [Bibliography](F.bibliography.md)
 * G. [Revision History](G.revision-history.md)
 
+## 词汇表
+
+* memory : 存储器
+* main memory : 主存/主存储器
+
 ## Reference
 
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
