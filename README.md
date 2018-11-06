@@ -12,10 +12,14 @@
 6. [What Programmers Can Do](06.what-programmers-can-do.md) : 程序员可以做什么
 7. [Memory Performance Tools](07.memory-performance-tools.md) : 内存工具
 8. [Upcoming Technology](08.upcoming-technology.md) : 未来的技术
-9. [Examples and Benchmark Programs](09.examples-and-benchmark-programs.md)
-10. [Some OProfile Tips](10.some-oprofile-tips.md) : 一些性能分析的建议
-
-## 专有名词
+9. 附录
+* A. [Examples and Benchmark Programs](A.examples-and-benchmark-programs.md)
+* B. [Some OProfile Tips](B.some-oprofile-tips.md) : 一些性能分析的建议
+* C. [Memory Types](C.memory-types.md)
+* D. [libNUMA Introduction](D.libnuma-introduction.md)
+* E. [Index](E.index.md)
+* F. [Bibliography](F.bibliography.md)
+* G. [Revision History](G.revision-history.md)
 
 ## Reference
 
