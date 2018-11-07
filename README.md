@@ -24,6 +24,7 @@
 ## 词汇表
 
 * memory : 内存
+* subsystems : 子系统
 * main memory : 主存
 * cache : 缓存
 
