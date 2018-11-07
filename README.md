@@ -23,8 +23,9 @@
 
 ## 词汇表
 
-* memory : 存储器
-* main memory : 主存/主存储器
+* memory : 内存
+* main memory : 主存
+* cache : 缓存
 
 ## Reference
 
