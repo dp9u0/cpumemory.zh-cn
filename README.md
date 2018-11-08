@@ -4,7 +4,7 @@
 
 ## 目录
 
-1. [Introduction](01.introduction.md) : 介绍
+1. [Introduction](01.introduction.md) : 前言
 2. [Commodity Hardware Today](02.commodity-hardware-today.md) : 现代商用硬件
 3. [CPU Caches](03.cpu-caches.md) : CPU缓存
 4. [Virtual Memory](04.virtual-memory.md) : 虚拟内存
@@ -23,10 +23,20 @@
 
 ## 词汇表
 
-* memory : 内存
-* subsystems : 子系统
-* main memory : 主存
-* cache : 缓存
+* memory: 内存
+* mass storage: 大容量存储设备
+* memory controller: 内存控制器
+* subsystems: 子系统
+* main memory: 主存
+* cache: 缓存
+* Random-Access Memory,RAM: 随机存取内存
+* Non-Uniform Memory Access,NUMA: 非统一内存访问
+
+## 说明
+
+1. 关于注释: 注释原文与翻译被统一放在文档的最后,并提供锚点跳转功能,方便查看和回退
+2. 关于专有名词等由于翻译可能导致有所歧义的词汇,翻译过程中将尽可能的提供原文词汇作为参考: 例如 mass storage 将翻译为: 大容量存储设备(*mass storage*),并在后面用斜体字标注原文.
+3. 标点符号: 尽可能使用半角标点
 
 ## Reference
 
