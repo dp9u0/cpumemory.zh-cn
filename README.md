@@ -24,10 +24,11 @@
 ## 词汇表
 
 * memory: 内存
-* mass storage: 大容量存储设备
 * memory controller: 内存控制器
-* subsystems: 子系统
+* virtual memory: 虚拟内存
 * main memory: 主存
+* Direct Memory Access,DMA: 直接内存存取
+* mass storage: 大容量存储设备
 * cache: 缓存
 * Random-Access Memory,RAM: 随机存取内存
 * Non-Uniform Memory Access,NUMA: 非统一内存访问
@@ -37,6 +38,7 @@
 1. 关于注释: 注释原文与翻译被统一放在文档的最后,并提供锚点跳转功能,方便查看和回退
 2. 关于专有名词等由于翻译可能导致有所歧义的词汇,翻译过程中将尽可能的提供原文词汇作为参考: 例如 mass storage 将翻译为: 大容量存储设备(*mass storage*),并在后面用斜体字标注原文.
 3. 标点符号: 尽可能使用半角标点
+4. 对于习惯使用的词汇不会进行翻译,例如RAM ,ROM 等
 
 ## Reference
 
