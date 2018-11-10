@@ -42,5 +42,4 @@
 
 ## Reference
 
-* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [系列文章](https://lwn.net/Articles/250967/)
