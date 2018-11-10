@@ -1,6 +1,6 @@
 # What Every Programmer Should Know About Memory
 
-本文翻译自文章[What Every Programmer Should Know About Memory](assets/cpumemory.pdf)
+本文翻译自文章[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## 目录
 
